@@ -19,7 +19,7 @@
     },
     "require": {
         "cakephp/cakephp": "^3.6",
-        "ruflin/elastica": "^6.0"
+        "qlsgroup/elastica": "^6.0"
     },
     "require-dev": {
         "cakephp/cakephp-codesniffer": "^3.0",
